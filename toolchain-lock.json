@@ -1,0 +1,31 @@
+{
+  "sdk_url": "https://github.com/vitasdk/autobuilds/releases/download/sdk-core-2026.08.0/vitasdk-bootstrap-x86_64-w64-mingw32.tar.bz2",
+  "sdk_sha256": "6c68af975fa965758b89f4bc8620df89cf50acc87e37076335c9e6100be6f573",
+  "packages_base": "https://github.com/vitasdk/vitasdk-autobuild/releases/download/packages-2026.08-snapshot-20260925.50.1",
+  "packages": [
+    {
+      "file": "bzip2-1.0.8-1-vita.pkg.tar.xz",
+      "sha256": "81072eb7487878d1cfede1122997644892a3f750a3e7da676d80d729f4e635d0"
+    },
+    {
+      "file": "freetype-2.14.3-1-vita.pkg.tar.xz",
+      "sha256": "f7dd4534e13bec5bb63611185f0e7269be180e9bb1a51bbb9483066093485756"
+    },
+    {
+      "file": "libjpeg-turbo-3.2.0-1-vita.pkg.tar.xz",
+      "sha256": "8b4b0328c16362b006e8eeae7a6c6400558d5a6de9ccb776bf055d827533eaa7"
+    },
+    {
+      "file": "libpng-1.6.58-1-vita.pkg.tar.xz",
+      "sha256": "45fd9c670fe91303b74481249dfbd6eef11f382eee094b3f72d6e97342c3ba5a"
+    },
+    {
+      "file": "libvita2d-0.0.0.r188.ga8f15ab-1-vita.pkg.tar.xz",
+      "sha256": "d604b050e6e445e4019258a75806f24fb325e8abb8dfdc48f6c1fbaa7346fd43"
+    },
+    {
+      "file": "zlib-1.3.2-2-vita.pkg.tar.xz",
+      "sha256": "e5b601fe333edb3781c0821c8ea168448d0edb0195362fb391d60e2c0e5d423c"
+    }
+  ]
+}

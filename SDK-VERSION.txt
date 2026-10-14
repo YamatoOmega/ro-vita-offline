@@ -1,0 +1,11 @@
+Built at 2026-08-13 12:16:37
+newlib            6cba98129f0a286949391de00519ef39762eff18
+pthread-embedded  610934f4841f02a42f19f0e8b0f01bb38b375dfc
+samples           fe8fbef570f3280586c0c20157146e3faefb2181
+vita-headers      ebc8f4f7ac8313fe4f74ca95724116b224bad184
+vita-toolchain    c527abce028df33f5281e9ed4994c25fcef53c7d
+repacked from     vitasdk-x86_64-w64-mingw32-2026-08-13_11-35-38.tar.bz2
+source sha256     f8b709f70e674053cdd7caa572cc33a9472880f0035ce76c8a44dcd402fcf903
+buildscripts      b68b3dffa29bdfe31792cdf2b8f220e2602ffc99
+vdpm              0.1.1
+vita-makepkg      32f863c2a58a801b7d5a0296bdbbb443c9676e08
